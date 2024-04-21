@@ -1,7 +1,7 @@
 # Liftraptors
 Liftraptors is a 2D shoot 'em up video game developed by Cameron.McKinney.Prog for Microsoft Windows. Liftraptors is written in C++ using raylib.
 
-Disclaimer
+## Disclaimer
 
 I am not a legal expert and have no formal legal training.
 I am a game programmer with no intention of breaching or misusing copyright notices, intellectual properties or any other legal entities.
