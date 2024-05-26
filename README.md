@@ -1,5 +1,5 @@
 # Liftraptors
-Liftraptors is a 2D arcade shooter video game developed by Cameron.McKinney.Prog for Microsoft Windows. Liftraptors is written in C++ using raylib.
+Liftraptors is a 2D arcade shooter video game developed by Cameron.McKinney.Prog for Microsoft Windows. Liftraptors is written in C++ using [raylib](https://www.raylib.com/).
 
 https://cameronmckinneyprog.bss.design/liftraptors.html
 
