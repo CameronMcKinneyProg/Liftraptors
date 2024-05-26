@@ -1,5 +1,13 @@
 #pragma once
-class game
-{
-};
 
+class Game
+{
+public:
+    Game();
+    ~Game();
+    void HandleInput();
+    void Update();
+    void Draw();
+private:
+
+};
