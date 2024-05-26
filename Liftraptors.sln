@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Liftraptors", "Liftraptors.vcxproj", "{35C6381A-336C-4883-AAC1-A77726EEC5B9}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "LiftraptorsInstaller", "LiftraptorsInstaller\LiftraptorsInstaller.vdproj", "{8A5C03F6-B701-42C8-B92E-B6363FCD724B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,10 @@ Global
 		{35C6381A-336C-4883-AAC1-A77726EEC5B9}.Release|x64.Build.0 = Release|x64
 		{35C6381A-336C-4883-AAC1-A77726EEC5B9}.Release|x86.ActiveCfg = Release|Win32
 		{35C6381A-336C-4883-AAC1-A77726EEC5B9}.Release|x86.Build.0 = Release|Win32
+		{8A5C03F6-B701-42C8-B92E-B6363FCD724B}.Debug|x64.ActiveCfg = Debug
+		{8A5C03F6-B701-42C8-B92E-B6363FCD724B}.Debug|x86.ActiveCfg = Debug
+		{8A5C03F6-B701-42C8-B92E-B6363FCD724B}.Release|x64.ActiveCfg = Release
+		{8A5C03F6-B701-42C8-B92E-B6363FCD724B}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
