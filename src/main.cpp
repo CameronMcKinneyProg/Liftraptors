@@ -1,4 +1,5 @@
 #include <raylib.h>
+#include "player.hpp"
 
 using namespace std;
 
@@ -10,10 +11,13 @@ int main()
     InitWindow(screenWidth, screenHeight, "Liftraptors");
     SetTargetFPS(60);
 
+    Player player;
+
     while (WindowShouldClose() == false)
     {
         BeginDrawing();
         ClearBackground(WHITE);
+        player.Draw();
 
         EndDrawing();
     }
